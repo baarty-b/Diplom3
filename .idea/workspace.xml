@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af63167b-97ba-4626-af15-0fac03b5b1fc" name="Changes" comment="" />
+    <list default="true" id="af63167b-97ba-4626-af15-0fac03b5b1fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/UserClientCreating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/UserClientDeleted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/UserClientLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DTO/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DTO/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DTO/UserResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/POM/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/POM/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/POM/PersonalAreaPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/POM/RegistrationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/HomePageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/LoginPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/PersonalAreaPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/RegistrationPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/105d0afd-f860-486d-8b13-453272ed84b5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/20822ecb-1b16-4bcc-807c-7fc6618fb609-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/316b8987-fffa-48e8-88cd-c8437d43d34f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/4d0d83d0-6596-4386-b17d-54d73603a031-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/4d3edb15-4836-46a9-8481-8433f26fcf02-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/58a31c82-464d-472e-b5a4-7f0ed5cc5f1f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/662f87c6-8736-41ea-afbe-de66bb97285f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6e20aee0-32d1-424a-aa7b-62e29e1fecdd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/cbe8e6bf-0b89-4f97-93cb-d37cff5f9c49-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d8c38f89-4626-421a-afb1-0382a9193ccf-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d93ba401-6f7c-484e-9e11-e695b8eb8e49-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/e373259b-a1cc-4104-85d9-f4a283b7587c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/executor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f2cfcd62-23db-4c85-8ef8-9795b0cbf4e5-result.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +50,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -31,8 +69,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/polis/Diplom2",
+    "last_opened_file_path": "C:/Users/polis/Diplom3",
     "onboarding.tips.debug.path": "C:/Users/polis/Diplom3/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
